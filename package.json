@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     
-    "test":"Echo error de sergio",
+    "test":"nodemon server.js",
     "start": "node server.js"
   },
   "repository": {
